@@ -12,7 +12,7 @@ available = True
 # Data types
 
 print(snack, price, quantity, available)
-
+print("welcome to codingal")
 print(type(snack), type(price), type(quantity), type(available))
 
 # Arithmetic
