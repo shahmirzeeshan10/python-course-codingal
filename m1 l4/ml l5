@@ -16,7 +16,7 @@ else:
 
 # PART 4 - if-elif-else STATEMENT
 if mood == "happy":
-    advice = "Keep spreading your positive energy!"
+    advice = "Keep spreading  positive energy!"
 elif mood == "sad":
     advice = "Talk to someone you trust or do something that makes you feel better."
 elif mood == "tired":
