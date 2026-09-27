@@ -12,7 +12,7 @@ print("updated:", students)
 teacher={"name":"ms uzma","subject":"coding","experience":1}
 print("Teacher:",teacher)
 print("subject:",teacher["subject"])
-teacher["experience"]=90000
+teacher["experience"]=2
 print("updated teacher:", teacher)
 rollnumbers=[1,2,3,4,5]
 names=["shahmir","alizeh","sana","zeeshan","oreo"]
