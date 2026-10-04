@@ -23,7 +23,6 @@ print("Books in Reverse Order:", books)
 
 # PART 3 - DICTIONARIES
 
-librarian = {
     "name": "Mr. shahmir",
     "section": "Children's Books",
     "experience": 5
